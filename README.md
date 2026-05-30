@@ -28,7 +28,7 @@
 ![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/volat_stand_south.gif)
 ![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/sqadv_stand_south.gif)
 
-*13 active + 3 planned AI agents — [RichFX Trading Floor →](https://github.com/RichieLoco/RichFX)*
+*13 active + 3 planned agents — [RichFX Trading Floor →](https://github.com/RichieLoco/RichFX)*
 
 </div>
 
@@ -70,14 +70,14 @@
 ## 🚀 Featured Projects
 
 ### [RichFX Trading Floor](https://github.com/RichieLoco/RichFX)
-> AI-powered algorithmic trading monitoring system — 13 CrewAI agents on a pixel-art trading floor
+> AI-powered algorithmic trading monitoring system — 13 agents on a pixel-art trading floor
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white)
 ![Live](https://img.shields.io/badge/Live-crew.richielo.co-green?style=flat)
 
-A multi-agent trading analysis system running local LLM inference on a Minisforum MS-S1 MAX (128GB). 13 agents cover regime classification, risk, strategy, execution, news, drawdown, correlation, performance, and cross-pair expansion analysis — displayed on a pixel-art trading floor dashboard with animated sprites.
+A multi-agent trading analysis system running local LLM inference on a Minisforum MS-S1 MAX (128GB). Agents cover regime classification, risk, strategy, execution, news, drawdown, correlation, performance, and cross-pair expansion analysis — displayed on a pixel-art trading floor dashboard with animated sprites.
 
 ---
 
