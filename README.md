@@ -4,8 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+things+that+trade%2C+think+%26+self-host;13-agent+AI+trading+floor+%F0%9F%A4%96;Local+LLM+inference+on+128GB+unified+RAM;MQL5+%7C+Python+%7C+Java+%7C+CrewAI+%7C+Ollama)](https://github.com/RichieLoco)
 
+<div align="center">
 <img src="https://hatscripts.github.io/circle-flags/flags/gb-eng.svg" width="24">
 <img src="https://hatscripts.github.io/circle-flags/flags/jm.svg" width="24">
+</div>
 *Norwich, UK · UBS AG*
 
 [![Website](https://img.shields.io/badge/richielo.co-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://richielo.co)
