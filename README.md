@@ -1,7 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=header&text=RichieLoco&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software+Developer+·+Algo+Trader+·+Home+Lab+Enthusiast&descAlignY=60&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=blur&color=0:8871e5,100:b678c4&stroke=b678c4&height=150&section=header&text=RichieLoco&fontSize=42&fontColor=d3d3d3&animation=fadeIn&fontAlignY=38&desc=Software+Developer+·+Algo+Trader+·+Home+Lab+Enthusiast&descAlignY=60&descSize=20)
 
 <div align="center">
-
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+things+that+trade%2C+think+%26+self-host;13-agent+AI+trading+floor+%F0%9F%A4%96;Local+LLM+inference+on+128GB+unified+RAM;MQL5+%7C+Python+%7C+Java+%7C+CrewAI+%7C+Ollama)](https://github.com/RichieLoco)
 
 
@@ -9,6 +9,26 @@
 <div align="center">
   <img src="https://hatscripts.github.io/circle-flags/flags/gb-eng.svg" width="24">
   <img src="https://hatscripts.github.io/circle-flags/flags/jm.svg" width="24">
+</div>
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/regime_stand_south.gif)
+![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/risk_stand_south.gif)
+![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/exec_stand_south.gif)
+![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/strat_stand_south.gif)
+![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/perf_stand_south.gif)
+![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/sess_stand_south.gif)
+![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/corr_stand_south.gif)
+![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/dd_stand_south.gif)
+![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/news_stand_south.gif)
+![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/journ_stand_south.gif)
+![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/scout_stand_south.gif)
+![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/meta_stand_south.gif)
+![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/hori_stand_south.gif)
+
+*13 AI agents monitoring the markets — [RichFX Trading Floor →](https://github.com/RichieLoco/RichFX)*
+
 </div>
 
 [![Website](https://img.shields.io/badge/richielo.co-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://richielo.co)
