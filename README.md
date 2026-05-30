@@ -1,15 +1,13 @@
 ![Header](https://capsule-render.vercel.app/api?type=blur&color=0:8871e5,100:b678c4&stroke=b678c4&height=150&section=header&text=RichieLoco&fontSize=42&fontColor=d3d3d3&animation=fadeIn&fontAlignY=38&desc=Software+Developer+·+Algo+Trader+·+Home+Lab+Enthusiast&descAlignY=60&descSize=20)
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+things+that+trade%2C+think+%26+self-host;13-agent+AI+trading+floor+%F0%9F%A4%96;Local+LLM+inference+on+128GB+unified+RAM;MQL5+%7C+Python+%7C+Java+%7C+CrewAI+%7C+Ollama)](https://github.com/RichieLoco)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+things+that+trade%2C+think+%26+self-host;16-agent+AI+trading+floor+%F0%9F%A4%96;Local+LLM+inference+on+128GB+unified+RAM;MQL5+%7C+Python+%7C+Java+%7C+CrewAI+%7C+Ollama)](https://github.com/RichieLoco)
+
+<img src="https://hatscripts.github.io/circle-flags/flags/gb-eng.svg" width="24">
+<img src="https://hatscripts.github.io/circle-flags/flags/jm.svg" width="24">
 
 *Norwich, UK · UBS AG*
-<div align="center">
-  <img src="https://hatscripts.github.io/circle-flags/flags/gb-eng.svg" width="24">
-  <img src="https://hatscripts.github.io/circle-flags/flags/jm.svg" width="24">
-</div>
 
 <div align="center">
 
@@ -26,8 +24,11 @@
 ![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/scout_stand_south.gif)
 ![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/meta_stand_south.gif)
 ![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/hori_stand_south.gif)
+![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/tframe_stand_south.gif)
+![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/volat_stand_south.gif)
+![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/sqadv_stand_south.gif)
 
-*13 AI agents monitoring the markets — [RichFX Trading Floor →](https://github.com/RichieLoco/RichFX)*
+*13 active + 3 planned AI agents — [RichFX Trading Floor →](https://github.com/RichieLoco/RichFX)*
 
 </div>
 
