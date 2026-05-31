@@ -137,22 +137,10 @@ All in a **GeeekPi DeskPi RackMate T2** with a 7.84" 1280×400 touchscreen for t
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![RichieLoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichieLoco&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichieLoco&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-</div>
-
----
-
 <div align="center">
 
 *Building things that trade, think, and self-host.*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=80&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=blur&color=0:8871e5,100:b678c4&stroke=b678c4&height=150&section=header&animation=fadeIn)
 
 </div>
