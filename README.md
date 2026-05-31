@@ -70,7 +70,7 @@
 ## 🚀 Featured Projects
 
 ### [RichFX Trading Floor](https://github.com/RichieLoco/RichFX)
-> AI-powered algorithmic trading monitoring system — 13 agents on a pixel-art trading floor
+> AI-powered algorithmic automated trading monitoring system — 16 agents on a pixel-art trading floor
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat&logoColor=white)
