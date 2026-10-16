@@ -28,7 +28,7 @@
 ![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/volat_stand_south.gif)
 ![](https://raw.githubusercontent.com/RichieLoco/RichFX/master/sprites/characters/sqadv_stand_south.gif)
 
-*15 active + 1 planned agents — [RichFX Trading Floor →](https://github.com/RichieLoco/RichFX)*
+*15 active + 1 planned agents - [RichFX Trading Floor ->](https://github.com/RichieLoco/RichFX)*
 
 </div>
 
@@ -90,7 +90,7 @@
 ## 🚀 Featured Projects
 
 ### [RichFX Trading Floor](https://github.com/RichieLoco/RichFX)
-> AI-powered algorithmic automated trading monitoring system — 16 agents on a pixel-art trading floor
+> AI-powered algorithmic automated trading monitoring system - 16 agents on a pixel-art trading floor
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat&logo=crewai&logoColor=white)
@@ -98,7 +98,7 @@
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![Live](https://img.shields.io/badge/Live-crew.richielo.co-green?style=flat)
 
-A multi-agent trading analysis system running local LLM inference on a Minisforum MS-S1 MAX (128GB). Agents cover regime classification, risk, strategy, execution, news, drawdown, correlation, performance, and cross-pair expansion analysis — displayed on a pixel-art trading floor dashboard with animated sprites.
+A multi-agent trading analysis system running local LLM inference on a Minisforum MS-S1 MAX (128GB). Agents cover regime classification, risk, strategy, execution, news, drawdown, correlation, performance, and cross-pair expansion analysis - displayed on a pixel-art trading floor dashboard with animated sprites.
 
 ---
 
@@ -108,18 +108,19 @@ A multi-agent trading analysis system running local LLM inference on a Minisforu
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D4A017?style=flat&logo=anthropic&logoColor=white)
 ![Self-hosted](https://img.shields.io/badge/Self--hosted-000?style=flat)
 
-One chat interface for every model your Copilot plan includes — Claude, GPT-5, Gemini 2.5 Pro, Llama 4, DeepSeek-R1, Grok 3 and more, all through the GitHub Models API you already pay for. Includes live premium request usage tracking, persistent projects and chat history, file and image uploads, and a Docker-ready self-hosted deploy. Zero tracking.
+One chat interface for every model your Copilot plan includes - Claude (Anthropic), GPT-5, Gemini 2.5 Pro, Llama 4, DeepSeek-R1, Grok 3 and more, all through the GitHub Models API you already pay for. Includes live premium request usage tracking, persistent projects and chat history, file and image uploads, and a Docker-ready self-hosted deploy. Zero tracking.
 
 ---
 
 ### [JevGate](https://github.com/RichieLoco/JevGate)
-> Pure-MQL5 judgment gate — lets any MT5 EA veto trades using TypeSafe Jev's calibrated decisions
+> Pure-MQL5 judgment gate - lets any MT5 EA veto trades using TypeSafe Jev's calibrated decisions
 
 ![MQL5](https://img.shields.io/badge/MQL5-1C7FC4?style=flat&logoColor=white)
 
-A drop-in module that lets any Expert Advisor ask TypeSafe Jev typed questions about the current market state — noul (probability), choice (label + confidence), or score — and use the answers as a veto layer. Calls the TypeSafe System One API directly via `WebRequest` with no proxy, no DLL and no Python. Includes LIVE, RECORD and REPLAY modes so the gate works in the MT5 Strategy Tester, plus a calibration script to tune thresholds against logged outcomes.
+A drop-in module that lets any Expert Advisor ask TypeSafe Jev typed questions about the current market state - noul (probability), choice (label + confidence), or score - and use the answers as a veto layer. Calls the TypeSafe System One API directly via `WebRequest` with no proxy, no DLL and no Python. Includes LIVE, RECORD and REPLAY modes so the gate works in the MT5 Strategy Tester, plus a calibration script to tune thresholds against logged outcomes.
 
 ---
 
@@ -128,7 +129,7 @@ A drop-in module that lets any Expert Advisor ask TypeSafe Jev typed questions a
 
 ![MQL5](https://img.shields.io/badge/MQL5-1C7FC4?style=flat&logoColor=white)
 
-A full-featured testing framework for MetaTrader 5 Expert Advisors and Indicators. Brings JUnit 5 patterns to MQL5: lifecycle hooks (`BeforeAll`, `AfterEach`…), rich assertions including trading-specific ones (prices, lot sizes, SL/TP, spreads), parameterized tests, repeated tests, timed tests, mock objects, and detailed pass/fail reporting with timing.
+A full-featured testing framework for MetaTrader 5 Expert Advisors and Indicators. Brings JUnit 5 patterns to MQL5: lifecycle hooks (`BeforeAll`, `AfterEach`...), rich assertions including trading-specific ones (prices, lot sizes, SL/TP, spreads), parameterized tests, repeated tests, timed tests, mock objects, and detailed pass/fail reporting with timing.
 
 ---
 
@@ -138,7 +139,7 @@ A full-featured testing framework for MetaTrader 5 Expert Advisors and Indicator
 ![MQL5](https://img.shields.io/badge/MQL5-1C7FC4?style=flat&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-Replaces MetaEditor as your daily driver for MQL5 development. Drop-in `.vscode` config that wires up IntelliSense (via your MT5 Terminal ID), `Ctrl+Shift+B` single-file compilation, `Ctrl+Shift+A` bulk compile with pass/fail summary, and a `compile.log` — all powered by MetaEditor under the hood, all without leaving VS Code.
+Replaces MetaEditor as your daily driver for MQL5 development. Drop-in `.vscode` config that wires up IntelliSense (via your MT5 Terminal ID), `Ctrl+Shift+B` single-file compilation, `Ctrl+Shift+A` bulk compile with pass/fail summary, and a `compile.log` - all powered by MetaEditor under the hood, all without leaving VS Code.
 
 ---
 
@@ -165,7 +166,7 @@ Running a self-hosted AI inference, trading infrastructure rack and other things
 | Raspberry Pi 4B | 4GB RAM | (with screen) Home surveillance |
 | Raspberry Pi 4B | 4GB RAM | Pi-hole, VPN |
 
-All in a **GeeekPi DeskPi RackMate T2** with a 7.84" 1280×400 touchscreen for the trading floor dashboard.
+All in a **GeeekPi DeskPi RackMate T2** with a 7.84" 1280x400 touchscreen for the trading floor dashboard.
 
 ---
 
