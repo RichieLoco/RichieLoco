@@ -82,7 +82,7 @@
 ![Dogs](https://img.shields.io/badge/Dogs-C8922A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1MCw1MikiPjxlbGxpcHNlIGN4PSIwIiBjeT0iOCIgcng9IjE4IiByeT0iMTQiIGZpbGw9IndoaXRlIi8+PGNpcmNsZSBjeD0iMCIgY3k9Ii0xNCIgcj0iMTQiIGZpbGw9IndoaXRlIi8+PGVsbGlwc2UgY3g9Ii0xNCIgY3k9Ii0xNCIgcng9IjUiIHJ5PSIxMCIgZmlsbD0id2hpdGUiIHRyYW5zZm9ybT0icm90YXRlKC0xNSwtMTQsLTE0KSIvPjxlbGxpcHNlIGN4PSIxNCIgY3k9Ii0xNCIgcng9IjUiIHJ5PSIxMCIgZmlsbD0id2hpdGUiIHRyYW5zZm9ybT0icm90YXRlKDE1LDE0LC0xNCkiLz48ZWxsaXBzZSBjeD0iMCIgY3k9Ii04IiByeD0iNyIgcnk9IjUiIGZpbGw9IndoaXRlIi8+PGVsbGlwc2UgY3g9IjAiIGN5PSItMTEiIHJ4PSI0IiByeT0iMi41IiBmaWxsPSJyZ2JhKDAsMCwwLDAuMykiLz48Y2lyY2xlIGN4PSItNiIgY3k9Ii0xOCIgcj0iMyIgZmlsbD0icmdiYSgwLDAsMCwwLjMpIi8+PGNpcmNsZSBjeD0iNiIgY3k9Ii0xOCIgcj0iMyIgZmlsbD0icmdiYSgwLDAsMCwwLjMpIi8+PHBhdGggZD0iTS00LC01IFEwLC0yIDQsLTUiIGZpbGw9Im5vbmUiIHN0cm9rZT0icmdiYSgwLDAsMCwwLjMpIiBzdHJva2Utd2lkdGg9IjEuMiIvPjxyZWN0IHg9Ii0xNCIgeT0iMTgiIHdpZHRoPSI3IiBoZWlnaHQ9IjE0IiByeD0iMyIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSI3IiB5PSIxOCIgd2lkdGg9IjciIGhlaWdodD0iMTQiIHJ4PSIzIiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik0xNyw0IFEzMCwtOCAyNCwtMTYiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PGVsbGlwc2UgY3g9IjAiIGN5PSIxMCIgcng9IjEwIiByeT0iOCIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjUpIi8+PC9nPjwvc3ZnPg==&logoColor=white)
 ![Nature](https://img.shields.io/badge/Nature-228B22?style=for-the-badge&logo=leaflet&logoColor=white)
 ![Gaming](https://img.shields.io/badge/Gaming-1C7FC4?style=for-the-badge&logo=playstation&logoColor=white)
-![MINISFORUM](https://img.shields.io/badge/Minisforum-FF69B4?style=for-the-badge&logo=data%3Aimage%2Fjpeg%3Bbase64%2C%2F9j%2F4AAQSkZJRgABAQAAAQABAAD%2F2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys%2FRD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N%2F%2FAABEIACAAIAMBIgACEQEDEQH%2FxAAYAAEBAQEBAAAAAAAAAAAAAAAHBQYDAf%2FEACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQAGIRIxQVFhkQgTIjKBBxQVouH%2FxAAUAQEAAAAAAAAAAAAAAAAAAAAA%2F8QAFBEBAAAAAAAAAAAAAAAAAAAAAP%2FaAAwDAQACEQMRAD8AFGmIYjp7atbOsFdu2%2FQWq3qFZ%2FqllYZEUY7sfcceJIGvNnbVrd334W6hZIlUGSonk%2B2GMEZY%2BfcYHr4DJDNYVsW0ol3Fs6Z6ywwN%2FH3rALsSpyKgcZOC3OOCpyBxoBTc9nr9s3qotVyi6ZoTww%2B2RfBl9D%2FnhqbHJ1kjGNP24bdZt1xrdN5ztbxdm%2Fa2INwaeMZZZH9XPJB7AqOCdCm4tu121r7UWq5BfnRgFXQ5V1PZh6HQT6a5VlClZDR1DwpVx%2FKn6OC6ZB6c%2BRIGfPS38ON2Q1d3sFRh46iIVCIwyDj6XHrkMvtobcHrbg99aL9ObyNv71tVxlb5cCTBJmPAEbjpYn0AOfxoNl8RF5FZuqltUTAx2%2Bny4HhJJyf6hPfRxU3Ksuc0UlfUPO8MKwoz8kIvYZ8ca7brur33clyujBsVVQzpkchM%2FSPwMDU%2BAEMcg9tB%2F9k%3D&logoColor=white)
+![MINISFORUM](https://img.shields.io/badge/Minisforum-FF69B4?style=for-the-badge&logo=data%3Aimage%2Fjpeg%3Bbase64%2C%2F9j%2F4AAQSkZJRgABAQAAAQABAAD%2F2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys%2FRD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N%2F%2FAABEIACAAIAMBIgACEQEDEQH%2FxAAYAAEBAQEBAAAAAAAAAAAAAAAHBQYDAf%2FEACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQAGIRIxQVFhkQgTIjKBBxQVouH%2FxAAUAQEAAAAAAAAAAAAAAAAAAAAA%2F8QAFBEBAAAAAAAAAAAAAAAAAAAAAP%2FaAAwDAQACEQMRAD8AFGmIYjp7atbOsFdu2%2FQWq3qFZ%2FqllYZEUY7sfcceJIGvNnbVrd334W6hZIlUGSonk%2B2GMMZY%2BfcYHr4DJDNYVsW0ol3Fs6Z6ywwN%2FH3rALsSpyKgcZOC3OOCpyBxoBTc9nr9s3qotVyi6ZoTww%2B2RfBl9D%2FnhqbHJ1kjGNP24bdZt1xrdN5ztbxdm%2Fa2INwaeMZZZH9XPJB7AqOCdCm4tu121r7UWq5BfnRgFXQ5V1PZh6HQT6a5VlClZDR1DwpVx%2FKn6OC6ZB6c%2BRIGfPS38ON2Q1d3sFRh46iIVCIwyDj6XHrkMvtobcHrbg99aL9ObyNv71tVxlb5cCTBJmPAEbjpYn0AOfxoNl8RF5FZuqltUTAx2%2Bny4HhJJyf6hPfRxU3Ksuc0UlfUPO8MKwoz8kIvYZ8ca7brur33clyujBsVVQzpkchM%2FSPwMDU%2BAEMcg9tB%2F9k%3D&logoColor=white)
 ![UFOs](https://img.shields.io/badge/UFOs-1A1A2E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1MCw1MikiPjxlbGxpcHNlIGN4PSIwIiBjeT0iNCIgcng9IjMwIiByeT0iOCIgZmlsbD0id2hpdGUiLz48ZWxsaXBzZSBjeD0iMCIgY3k9IjAiIHJ4PSIzMCIgcnk9IjgiIGZpbGw9IndoaXRlIi8+PGVsbGlwc2UgY3g9IjAiIGN5PSItNiIgcng9IjE2IiByeT0iNSIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNLTE2LC02IFEtMTQsLTI0IDAsLTI2IFExNCwtMjQgMTYsLTYgWiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuOSIvPjxjaXJjbGUgY3g9Ii0xOCIgY3k9IjIiIHI9IjMiIGZpbGw9InJnYmEoMCwwLDAsMC4yKSIvPjxjaXJjbGUgY3g9Ii05IiBjeT0iNiIgcj0iMyIgZmlsbD0icmdiYSgwLDAsMCwwLjIpIi8+PGNpcmNsZSBjeD0iMCIgY3k9IjciIHI9IjMiIGZpbGw9InJnYmEoMCwwLDAsMC4yKSIvPjxjaXJjbGUgY3g9IjkiIGN5PSI2IiByPSIzIiBmaWxsPSJyZ2JhKDAsMCwwLDAuMikiLz48Y2lyY2xlIGN4PSIxOCIgY3k9IjIiIHI9IjMiIGZpbGw9InJnYmEoMCwwLDAsMC4yKSIvPjxwYXRoIGQ9Ik0tMTAsMTAgTC0xNiwzMiBMMTYsMzIgTDEwLDEwIFoiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjMiLz48L2c+PC9zdmc+&logoColor=white)
 
 ---
@@ -106,28 +106,39 @@ A multi-agent trading analysis system running local LLM inference on a Minisforu
 > Multi-model chat app for your GitHub Copilot subscription
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Self-hosted](https://img.shields.io/badge/Self--hosted-000?style=flat)
 
-Claude, GPT, Gemini, Llama — all through the GitHub Models API you already pay for. Zero tracking.
+One chat interface for every model your Copilot plan includes — Claude, GPT-5, Gemini 2.5 Pro, Llama 4, DeepSeek-R1, Grok 3 and more, all through the GitHub Models API you already pay for. Includes live premium request usage tracking, persistent projects and chat history, file and image uploads, and a Docker-ready self-hosted deploy. Zero tracking.
+
+---
+
+### [JevGate](https://github.com/RichieLoco/JevGate)
+> Pure-MQL5 judgment gate — lets any MT5 EA veto trades using TypeSafe Jev's calibrated decisions
+
+![MQL5](https://img.shields.io/badge/MQL5-1C7FC4?style=flat&logoColor=white)
+
+A drop-in module that lets any Expert Advisor ask TypeSafe Jev typed questions about the current market state — noul (probability), choice (label + confidence), or score — and use the answers as a veto layer. Calls the TypeSafe System One API directly via `WebRequest` with no proxy, no DLL and no Python. Includes LIVE, RECORD and REPLAY modes so the gate works in the MT5 Strategy Tester, plus a calibration script to tune thresholds against logged outcomes.
 
 ---
 
 ### [MQL5Unit](https://github.com/RichieLoco/MQL5Unit)
-> JUnit 5-inspired unit testing framework for MQL5
+> JUnit 5 Jupiter-inspired unit testing framework for MQL5
 
 ![MQL5](https://img.shields.io/badge/MQL5-1C7FC4?style=flat&logoColor=white)
 
-Testing framework for MetaTrader 5 Expert Advisors and Indicators, inspired by JUnit 5 Jupiter.
+A full-featured testing framework for MetaTrader 5 Expert Advisors and Indicators. Brings JUnit 5 patterns to MQL5: lifecycle hooks (`BeforeAll`, `AfterEach`…), rich assertions including trading-specific ones (prices, lot sizes, SL/TP, spreads), parameterized tests, repeated tests, timed tests, mock objects, and detailed pass/fail reporting with timing.
 
 ---
 
-### [CoinSniper](https://github.com/RichieLoco/CoinSniper)
-> AI-powered trading bot for new exchange listings
+### [MQL5-VSCode-Forge](https://github.com/RichieLoco/MQL5-VSCode-Forge)
+> Streamlined MQL5 development workflow inside Visual Studio Code
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat&logo=spring&logoColor=white)
+![MQL5](https://img.shields.io/badge/MQL5-1C7FC4?style=flat&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-Reacts to new Binance listings using Spring Boot WebFlux, R2DBC, and DJL for ML inference.
+Replaces MetaEditor as your daily driver for MQL5 development. Drop-in `.vscode` config that wires up IntelliSense (via your MT5 Terminal ID), `Ctrl+Shift+B` single-file compilation, `Ctrl+Shift+A` bulk compile with pass/fail summary, and a `compile.log` — all powered by MetaEditor under the hood, all without leaving VS Code.
 
 ---
 
@@ -139,7 +150,7 @@ Running a self-hosted AI inference, trading infrastructure rack and other things
 |---------|------|------|
 | Minisforum AI X1 470 Pro | 1TB, 128GB RAM, AMD Ryzen AI 9 HX 470 | Workhorse mini PC, EA development, MQL5 testing, Gaming (with DEG2 eGPU) |
 | Minisforum MS-S1 MAX | 2TB, 128GB unified RAM, AMD Ryzen AI Max+ 395 (Strix Halo) | Ubuntu, Local LLM inference (Ollama, CrewAI) |
-| Minisforum AI N5 Pro NAS | 84TB, 96GB RAM, AMD Ryzen AI 9 HX Pro 370 | Proxmox, n8n automation, Win11 VM, HomeAssistant, Bookshelf, Focalboard |
+| Minisforum AI N5 Pro NAS | 84TB, 96GB RAM, AMD Ryzen AI 9 HX Pro 370 | Proxmox, n8n automation, Win11 VM (Algo Trading), HomeAssistant, Bookshelf, Focalboard, Immich, Samba, Gumroad License Server |
 | Minisforum UM890 Pro | 1TB, 64GB RAM, AMD Ryzen 9 8945HS | Secondary workhorse mini PC |
 | Minisforum V3 | 1TB, 32GB RAM, AMD Ryzen 7 8840U | Working on the move! |
 | Umbrel Home | 2TB, 16GB RAM, Intel N150 | UmbrelOS, Bitcoin Node, Bassin, NerdQaxe++, Public Pool |
